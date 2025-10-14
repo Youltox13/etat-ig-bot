@@ -1,0 +1,15 @@
+{
+  "name": "etat-ig-bot",
+  "version": "1.0.3",
+  "type": "module",
+  "description": "Street Aces bot - Etat IG + Avert + Tickets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "discord-html-transcripts": "^3.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
